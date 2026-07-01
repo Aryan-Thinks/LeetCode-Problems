@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [1672-richest-customer-wealth](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/1929-concatenation-of-array/) | Easy |
 ## Prefix Sum
@@ -18,4 +19,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1920-build-array-from-permutation](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/1929-concatenation-of-array/) | Easy |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1672-richest-customer-wealth](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/1672-richest-customer-wealth/) | Easy |
 <!---LeetCode Topics End-->
