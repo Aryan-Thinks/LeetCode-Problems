@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/1920-build-array-from-permutation/) | Easy |
@@ -28,4 +29,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1148-article-views-i](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/1148-article-views-i/) | Easy |
 | [1683-invalid-tweets](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/1683-invalid-tweets/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/1295-find-numbers-with-even-number-of-digits/) | Easy |
 <!---LeetCode Topics End-->
