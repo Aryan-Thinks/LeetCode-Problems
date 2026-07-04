@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/0001-two-sum/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/1480-running-sum-of-1d-array/) | Easy |
@@ -37,4 +38,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/1295-find-numbers-with-even-number-of-digits/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0001-two-sum](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/0001-two-sum/) | Easy |
 <!---LeetCode Topics End-->
