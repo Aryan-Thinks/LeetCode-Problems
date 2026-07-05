@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0620-not-boring-movies](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/PostgreSQL/0620-not-boring-movies/) | Easy |
 | [1068-product-sales-analysis-i](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/PostgreSQL/1068-product-sales-analysis-i/) | Easy |
 | [1148-article-views-i](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/1148-article-views-i/) | Easy |
+| [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/PostgreSQL/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
 | [1683-invalid-tweets](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/1683-invalid-tweets/) | Easy |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/PostgreSQL/2356-number-of-unique-subjects-taught-by-each-teacher/) | Easy |
 ## Math
