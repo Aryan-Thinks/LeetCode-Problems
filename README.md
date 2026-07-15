@@ -53,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/1295-find-numbers-with-even-number-of-digits/) | Easy |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -70,4 +71,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0058-length-of-last-word](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/0058-length-of-last-word/) | Easy |
 | [0709-to-lower-case](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/0709-to-lower-case/) | Easy |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/3658-gcd-of-odd-and-even-sums/) | Easy |
 <!---LeetCode Topics End-->
