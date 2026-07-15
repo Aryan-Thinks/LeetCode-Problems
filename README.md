@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/PostgreSQL/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/PostgreSQL/1581-customer-who-visited-but-did-not-make-any-transactions/) | Easy |
 | [1661-average-time-of-process-per-machine](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/PostgreSQL/1661-average-time-of-process-per-machine/) | Easy |
+| [1667-fix-names-in-a-table](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/PostgreSQL/1667-fix-names-in-a-table/) | Easy |
 | [1683-invalid-tweets](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/1683-invalid-tweets/) | Easy |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/PostgreSQL/2356-number-of-unique-subjects-taught-by-each-teacher/) | Easy |
 ## Math
