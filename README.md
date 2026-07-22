@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1672-richest-customer-wealth](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/1732-find-the-highest-altitude/) | Easy |
 | [1773-count-items-matching-a-rule](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/1773-count-items-matching-a-rule/) | Easy |
+| [1854-maximum-population-year](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/1854-maximum-population-year/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/1929-concatenation-of-array/) | Easy |
 ## Prefix Sum
@@ -33,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/1732-find-the-highest-altitude/) | Easy |
+| [1854-maximum-population-year](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/1854-maximum-population-year/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -101,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1512-number-of-good-pairs](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/1512-number-of-good-pairs/) | Easy |
+| [1854-maximum-population-year](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/1854-maximum-population-year/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
