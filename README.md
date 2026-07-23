@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1732-find-the-highest-altitude](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/1732-find-the-highest-altitude/) | Easy |
 | [1773-count-items-matching-a-rule](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/1773-count-items-matching-a-rule/) | Easy |
 | [1854-maximum-population-year](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/1854-maximum-population-year/) | Easy |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/1929-concatenation-of-array/) | Easy |
 ## Prefix Sum
@@ -50,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0867-transpose-matrix](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/0867-transpose-matrix/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/1572-matrix-diagonal-sum/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/1672-richest-customer-wealth/) | Easy |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
