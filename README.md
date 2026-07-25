@@ -77,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0989-add-to-array-form-of-integer](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/0989-add-to-array-form-of-integer/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/1512-number-of-good-pairs/) | Easy |
+| [3536-maximum-product-of-two-digits](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/3536-maximum-product-of-two-digits/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -113,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [3536-maximum-product-of-two-digits](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/3536-maximum-product-of-two-digits/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
