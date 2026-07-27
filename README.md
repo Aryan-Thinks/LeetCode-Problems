@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/1380-lucky-numbers-in-a-matrix/) | Easy |
 | [1389-create-target-array-in-the-given-order](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/1389-create-target-array-in-the-given-order/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/1431-kids-with-the-greatest-number-of-candies/) | Easy |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1470-shuffle-the-array](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/1470-shuffle-the-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/1512-number-of-good-pairs/) | Easy |
@@ -119,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/0628-maximum-product-of-three-numbers/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/3536-maximum-product-of-two-digits/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
@@ -132,4 +134,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0832-flipping-an-image](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/0832-flipping-an-image/) | Easy |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 <!---LeetCode Topics End-->
