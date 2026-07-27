@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0066-plus-one](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/0066-plus-one/) | Easy |
 | [0162-find-peak-element](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/0162-find-peak-element/) | Medium |
+| [0566-reshape-the-matrix](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/0566-reshape-the-matrix/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/0628-maximum-product-of-three-numbers/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0832-flipping-an-image](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/0832-flipping-an-image/) | Easy |
@@ -43,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0566-reshape-the-matrix](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/0566-reshape-the-matrix/) | Easy |
 | [0832-flipping-an-image](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/0832-flipping-an-image/) | Easy |
 | [0867-transpose-matrix](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/0867-transpose-matrix/) | Easy |
 | [1389-create-target-array-in-the-given-order](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/1389-create-target-array-in-the-given-order/) | Easy |
@@ -51,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0566-reshape-the-matrix](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/0566-reshape-the-matrix/) | Easy |
 | [0832-flipping-an-image](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/0832-flipping-an-image/) | Easy |
 | [0867-transpose-matrix](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/0867-transpose-matrix/) | Easy |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/1380-lucky-numbers-in-a-matrix/) | Easy |
