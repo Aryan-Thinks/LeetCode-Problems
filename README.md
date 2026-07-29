@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0033-search-in-rotated-sorted-array](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0066-plus-one](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/0066-plus-one/) | Easy |
+| [0088-merge-sorted-array](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/0088-merge-sorted-array/) | Easy |
 | [0162-find-peak-element](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/0162-find-peak-element/) | Medium |
 | [0566-reshape-the-matrix](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/0566-reshape-the-matrix/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/0628-maximum-product-of-three-numbers/) | Easy |
@@ -122,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0088-merge-sorted-array](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/0088-merge-sorted-array/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/0628-maximum-product-of-three-numbers/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -133,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0088-merge-sorted-array](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/0088-merge-sorted-array/) | Easy |
 | [0832-flipping-an-image](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/0832-flipping-an-image/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
