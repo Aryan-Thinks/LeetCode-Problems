@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0066-plus-one](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/0066-plus-one/) | Easy |
 | [0088-merge-sorted-array](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/0088-merge-sorted-array/) | Easy |
 | [0162-find-peak-element](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/0162-find-peak-element/) | Medium |
+| [0268-missing-number](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/0268-missing-number/) | Easy |
 | [0566-reshape-the-matrix](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/0566-reshape-the-matrix/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/0628-maximum-product-of-three-numbers/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/0744-find-smallest-letter-greater-than-target/) | Easy |
@@ -85,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0066-plus-one](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/0066-plus-one/) | Easy |
+| [0268-missing-number](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/0268-missing-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/0628-maximum-product-of-three-numbers/) | Easy |
 | [0989-add-to-array-form-of-integer](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/0989-add-to-array-form-of-integer/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/1295-find-numbers-with-even-number-of-digits/) | Easy |
@@ -95,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/0001-two-sum/) | Easy |
+| [0268-missing-number](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/0268-missing-number/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/1512-number-of-good-pairs/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/1832-check-if-the-sentence-is-pangram/) | Easy |
@@ -104,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0033-search-in-rotated-sorted-array](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/0162-find-peak-element/) | Medium |
+| [0268-missing-number](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/0268-missing-number/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/0852-peak-index-in-a-mountain-array/) | Medium |
 ## String
@@ -126,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/0088-merge-sorted-array/) | Easy |
+| [0268-missing-number](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/0268-missing-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/0628-maximum-product-of-three-numbers/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -142,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0268-missing-number](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/0268-missing-number/) | Easy |
 | [0832-flipping-an-image](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/0832-flipping-an-image/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
