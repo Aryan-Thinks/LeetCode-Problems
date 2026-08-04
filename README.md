@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/0088-merge-sorted-array/) | Easy |
 | [0162-find-peak-element](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/0162-find-peak-element/) | Medium |
 | [0268-missing-number](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/0268-missing-number/) | Easy |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0566-reshape-the-matrix](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/0566-reshape-the-matrix/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/0628-maximum-product-of-three-numbers/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/0744-find-smallest-letter-greater-than-target/) | Easy |
@@ -98,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/0001-two-sum/) | Easy |
 | [0268-missing-number](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/0268-missing-number/) | Easy |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/1512-number-of-good-pairs/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/1832-check-if-the-sentence-is-pangram/) | Easy |
