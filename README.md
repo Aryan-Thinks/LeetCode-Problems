@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/0088-merge-sorted-array/) | Easy |
 | [0162-find-peak-element](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/0162-find-peak-element/) | Medium |
 | [0268-missing-number](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/0268-missing-number/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/0287-find-the-duplicate-number/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0566-reshape-the-matrix](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/0566-reshape-the-matrix/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/0628-maximum-product-of-three-numbers/) | Easy |
@@ -110,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/0162-find-peak-element/) | Medium |
 | [0268-missing-number](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/0268-missing-number/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/0287-find-the-duplicate-number/) | Medium |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/0852-peak-index-in-a-mountain-array/) | Medium |
 ## String
@@ -145,14 +147,24 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/0088-merge-sorted-array/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/0287-find-the-duplicate-number/) | Medium |
 | [0832-flipping-an-image](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/0832-flipping-an-image/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0268-missing-number](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/0268-missing-number/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/0287-find-the-duplicate-number/) | Medium |
 | [0832-flipping-an-image](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/0832-flipping-an-image/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+## Pigeonhole Principle
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/0287-find-the-duplicate-number/) | Medium |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/0287-find-the-duplicate-number/) | Medium |
 <!---LeetCode Topics End-->
