@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/0001-two-sum/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+| [0041-first-missing-positive](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/0041-first-missing-positive/) | Hard |
 | [0066-plus-one](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/0066-plus-one/) | Easy |
 | [0088-merge-sorted-array](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/0088-merge-sorted-array/) | Easy |
 | [0162-find-peak-element](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/0162-find-peak-element/) | Medium |
@@ -101,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/0001-two-sum/) | Easy |
+| [0041-first-missing-positive](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/0041-first-missing-positive/) | Hard |
 | [0268-missing-number](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/0268-missing-number/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
