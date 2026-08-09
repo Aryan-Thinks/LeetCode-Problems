@@ -86,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1661-average-time-of-process-per-machine](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/PostgreSQL/1661-average-time-of-process-per-machine/) | Easy |
 | [1667-fix-names-in-a-table](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/PostgreSQL/1667-fix-names-in-a-table/) | Easy |
 | [1683-invalid-tweets](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/1683-invalid-tweets/) | Easy |
+| [1729-find-followers-count](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/PostgreSQL/1729-find-followers-count/) | Easy |
 | [1934-confirmation-rate](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/PostgreSQL/1934-confirmation-rate/) | Medium |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/PostgreSQL/2356-number-of-unique-subjects-taught-by-each-teacher/) | Easy |
 ## Math
