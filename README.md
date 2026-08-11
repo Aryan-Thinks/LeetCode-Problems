@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0852-peak-index-in-a-mountain-array](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0867-transpose-matrix](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/0867-transpose-matrix/) | Easy |
 | [0989-add-to-array-form-of-integer](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/0989-add-to-array-form-of-integer/) | Easy |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/1217-minimum-cost-to-move-chips-to-the-same-position/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/1380-lucky-numbers-in-a-matrix/) | Easy |
@@ -97,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/0268-missing-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/0628-maximum-product-of-three-numbers/) | Easy |
 | [0989-add-to-array-form-of-integer](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/0989-add-to-array-form-of-integer/) | Easy |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/1217-minimum-cost-to-move-chips-to-the-same-position/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/1512-number-of-good-pairs/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/3536-maximum-product-of-two-digits/) | Easy |
@@ -180,4 +182,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/0287-find-the-duplicate-number/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/1217-minimum-cost-to-move-chips-to-the-same-position/) | Easy |
 <!---LeetCode Topics End-->
