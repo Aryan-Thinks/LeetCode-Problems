@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0033-search-in-rotated-sorted-array](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0041-first-missing-positive](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/0041-first-missing-positive/) | Hard |
+| [0053-maximum-subarray](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/0053-maximum-subarray/) | Medium |
 | [0066-plus-one](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/0066-plus-one/) | Easy |
 | [0088-merge-sorted-array](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/0088-merge-sorted-array/) | Easy |
 | [0162-find-peak-element](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/0162-find-peak-element/) | Medium |
@@ -186,4 +187,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/1217-minimum-cost-to-move-chips-to-the-same-position/) | Easy |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0053-maximum-subarray](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/0053-maximum-subarray/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0053-maximum-subarray](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/0053-maximum-subarray/) | Medium |
 <!---LeetCode Topics End-->
