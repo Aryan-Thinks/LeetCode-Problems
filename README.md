@@ -140,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1528-shuffle-string](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/1528-shuffle-string/) | Easy |
 | [1773-count-items-matching-a-rule](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/1773-count-items-matching-a-rule/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/1832-check-if-the-sentence-is-pangram/) | Easy |
+| [1859-sorting-the-sentence](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/1859-sorting-the-sentence/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -159,6 +160,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0645-set-mismatch](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/0645-set-mismatch/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1859-sorting-the-sentence](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/1859-sorting-the-sentence/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/3536-maximum-product-of-two-digits/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
@@ -202,4 +204,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/0053-maximum-subarray/) | Medium |
+## Bubble Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1859-sorting-the-sentence](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/1859-sorting-the-sentence/) | Easy |
 <!---LeetCode Topics End-->
