@@ -138,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0709-to-lower-case](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/0709-to-lower-case/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/1108-defanging-an-ip-address/) | Easy |
 | [1528-shuffle-string](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/1528-shuffle-string/) | Easy |
+| [1704-determine-if-string-halves-are-alike](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/1704-determine-if-string-halves-are-alike/) | Easy |
 | [1773-count-items-matching-a-rule](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/1773-count-items-matching-a-rule/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [1859-sorting-the-sentence](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/1859-sorting-the-sentence/) | Easy |
@@ -149,6 +150,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1512-number-of-good-pairs](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/1512-number-of-good-pairs/) | Easy |
+| [1704-determine-if-string-halves-are-alike](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/1704-determine-if-string-halves-are-alike/) | Easy |
 | [1854-maximum-population-year](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/1854-maximum-population-year/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
