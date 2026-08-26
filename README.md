@@ -140,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1108-defanging-an-ip-address](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/1108-defanging-an-ip-address/) | Easy |
 | [1528-shuffle-string](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/1528-shuffle-string/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
+| [1678-goal-parser-interpretation](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/1678-goal-parser-interpretation/) | Easy |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/1704-determine-if-string-halves-are-alike/) | Easy |
 | [1773-count-items-matching-a-rule](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/1773-count-items-matching-a-rule/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/1832-check-if-the-sentence-is-pangram/) | Easy |
