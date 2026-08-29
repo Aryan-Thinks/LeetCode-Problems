@@ -138,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0058-length-of-last-word](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/0058-length-of-last-word/) | Easy |
 | [0709-to-lower-case](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/0709-to-lower-case/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/1108-defanging-an-ip-address/) | Easy |
@@ -178,6 +179,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0088-merge-sorted-array](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/0088-merge-sorted-array/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/0287-find-the-duplicate-number/) | Medium |
 | [0832-flipping-an-image](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/0832-flipping-an-image/) | Easy |
@@ -220,4 +222,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0069-sqrtx](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/0069-sqrtx/) | Easy |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Z Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Knuth–Morris–Pratt Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Boyer–Moore String-Search Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 <!---LeetCode Topics End-->
