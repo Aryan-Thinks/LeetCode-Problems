@@ -103,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0009-palindrome-number](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/0009-palindrome-number/) | Easy |
 | [0066-plus-one](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/0066-plus-one/) | Easy |
 | [0069-sqrtx](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/0069-sqrtx/) | Easy |
 | [0268-missing-number](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/0268-missing-number/) | Easy |
