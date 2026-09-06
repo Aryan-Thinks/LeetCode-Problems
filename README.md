@@ -47,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/1929-concatenation-of-array/) | Easy |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/3875-construct-uniform-parity-array-i/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -157,6 +158,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1773-count-items-matching-a-rule](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/1773-count-items-matching-a-rule/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [1859-sorting-the-sentence](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/1859-sorting-the-sentence/) | Easy |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
