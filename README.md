@@ -151,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0657-robot-return-to-origin](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/0657-robot-return-to-origin/) | Easy |
 | [0709-to-lower-case](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/0709-to-lower-case/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/1108-defanging-an-ip-address/) | Easy |
+| [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/1309-decrypt-string-from-alphabet-to-integer-mapping/) | Easy |
 | [1528-shuffle-string](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/1528-shuffle-string/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1678-goal-parser-interpretation](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/1678-goal-parser-interpretation/) | Easy |
