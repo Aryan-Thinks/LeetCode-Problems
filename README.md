@@ -148,6 +148,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0058-length-of-last-word](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/0058-length-of-last-word/) | Easy |
+| [0125-valid-palindrome](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/0125-valid-palindrome/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/0657-robot-return-to-origin/) | Easy |
 | [0709-to-lower-case](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/0709-to-lower-case/) | Easy |
@@ -194,6 +195,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0088-merge-sorted-array](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/0088-merge-sorted-array/) | Easy |
+| [0125-valid-palindrome](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/0125-valid-palindrome/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/0287-find-the-duplicate-number/) | Medium |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0832-flipping-an-image](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/0832-flipping-an-image/) | Easy |
