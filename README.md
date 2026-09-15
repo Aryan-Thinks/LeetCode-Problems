@@ -78,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0176-second-highest-salary](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/PostgreSQL/0176-second-highest-salary/) | Medium |
 | [0180-consecutive-numbers](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/PostgreSQL/0180-consecutive-numbers/) | Medium |
 | [0185-department-top-three-salaries](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/PostgreSQL/0185-department-top-three-salaries/) | Hard |
 | [0196-delete-duplicate-emails](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/PostgreSQL/0196-delete-duplicate-emails/) | Easy |
