@@ -157,6 +157,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0125-valid-palindrome](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/0125-valid-palindrome/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/0657-robot-return-to-origin/) | Easy |
+| [0678-valid-parenthesis-string](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/0678-valid-parenthesis-string/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/0680-valid-palindrome-ii/) | Easy |
 | [0709-to-lower-case](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/0709-to-lower-case/) | Easy |
 | [0925-long-pressed-name](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/0925-long-pressed-name/) | Easy |
@@ -231,6 +232,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0678-valid-parenthesis-string](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/0678-valid-parenthesis-string/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/0680-valid-palindrome-ii/) | Easy |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/1217-minimum-cost-to-move-chips-to-the-same-position/) | Easy |
 ## Divide and Conquer
@@ -241,6 +243,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/0053-maximum-subarray/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/0678-valid-parenthesis-string/) | Medium |
 ## Bubble Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -265,4 +268,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0678-valid-parenthesis-string](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/0678-valid-parenthesis-string/) | Medium |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0678-valid-parenthesis-string](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/0678-valid-parenthesis-string/) | Medium |
 <!---LeetCode Topics End-->
