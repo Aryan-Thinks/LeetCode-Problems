@@ -166,6 +166,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/1309-decrypt-string-from-alphabet-to-integer-mapping/) | Easy |
 | [1528-shuffle-string](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/1528-shuffle-string/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
+| [1668-maximum-repeating-substring](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/1668-maximum-repeating-substring/) | Easy |
 | [1678-goal-parser-interpretation](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/1678-goal-parser-interpretation/) | Easy |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/1704-determine-if-string-halves-are-alike/) | Easy |
 | [1773-count-items-matching-a-rule](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/1773-count-items-matching-a-rule/) | Easy |
@@ -245,6 +246,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/0053-maximum-subarray/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/0678-valid-parenthesis-string/) | Medium |
+| [1668-maximum-repeating-substring](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/1668-maximum-repeating-substring/) | Easy |
 ## Bubble Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -257,6 +259,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [1668-maximum-repeating-substring](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/1668-maximum-repeating-substring/) | Easy |
 ## Z Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
