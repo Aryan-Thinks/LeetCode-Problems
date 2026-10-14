@@ -1,27 +1,23 @@
+// https://leetcode.com/problems/group-by
+
 /**
  * @param {Function} fn
  * @return {Object}
  */
-Array.prototype.groupBy = function (fn) {
-    // Object to store grouped elements
-    const grouped = {};
-
-    // Iterate through each element in the array
-    for (const item of this) {
-        // Compute the key using the callback function
+Array.prototype.groupBy = function(fn) {
+    const result = {};
+    
+    for (let i = 0; i < this.length; i++) {
+        const item = this[i];
         const key = fn(item);
-
-        // If the key doesn't exist, initialize it with an empty array
-        if (!grouped[key]) {
-            grouped[key] = [];
+        
+        if (!result[key]) {
+            result[key] = [];
         }
-
-        // Add the current item to its corresponding group
-        grouped[key].push(item);
+        result[key].push(item);
     }
-
-    // Return the grouped object
-    return grouped;
+    
+    return result;
 };
 
 /**
