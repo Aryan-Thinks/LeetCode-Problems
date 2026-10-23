@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1929-concatenation-of-array](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/1929-concatenation-of-array/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/3875-construct-uniform-parity-array-i/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -221,6 +222,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0287-find-the-duplicate-number](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/0287-find-the-duplicate-number/) | Medium |
 | [0645-set-mismatch](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/0645-set-mismatch/) | Easy |
 | [0832-flipping-an-image](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/0832-flipping-an-image/) | Easy |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/3644-maximum-k-to-sort-a-permutation/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
