@@ -125,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/1217-minimum-cost-to-move-chips-to-the-same-position/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/1512-number-of-good-pairs/) | Easy |
+| [2409-count-days-spent-together](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/2409-count-days-spent-together/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/3536-maximum-product-of-two-digits/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/3875-construct-uniform-parity-array-i/) | Easy |
@@ -176,6 +177,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [1859-sorting-the-sentence](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/1859-sorting-the-sentence/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
+| [2409-count-days-spent-together](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/2409-count-days-spent-together/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
