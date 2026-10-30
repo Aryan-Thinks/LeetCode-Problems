@@ -52,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/3644-maximum-k-to-sort-a-permutation/) | Medium |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/3841-palindromic-path-queries-in-a-tree/) | Hard |
 | [3875-construct-uniform-parity-array-i](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/3875-construct-uniform-parity-array-i/) | Easy |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/3898-find-the-degree-of-each-vertex/) | Easy |
 ## Prefix Sum
@@ -182,6 +183,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1859-sorting-the-sentence](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/1859-sorting-the-sentence/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2409-count-days-spent-together](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/2409-count-days-spent-together/) | Easy |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -229,6 +231,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0645-set-mismatch](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/0645-set-mismatch/) | Easy |
 | [0832-flipping-an-image](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/0832-flipping-an-image/) | Easy |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/3644-maximum-k-to-sort-a-permutation/) | Medium |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -251,6 +254,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/0053-maximum-subarray/) | Medium |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -296,14 +300,17 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1254-number-of-closed-islands](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/1254-number-of-closed-islands/) | Medium |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -316,4 +323,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/3898-find-the-degree-of-each-vertex/) | Easy |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/3841-palindromic-path-queries-in-a-tree/) | Hard |
 <!---LeetCode Topics End-->
