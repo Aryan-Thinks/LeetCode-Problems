@@ -52,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/3644-maximum-k-to-sort-a-permutation/) | Medium |
+| [3665-twisted-mirror-path-count](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/3665-twisted-mirror-path-count/) | Medium |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/3841-palindromic-path-queries-in-a-tree/) | Hard |
 | [3875-construct-uniform-parity-array-i](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/3875-construct-uniform-parity-array-i/) | Easy |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/3898-find-the-degree-of-each-vertex/) | Easy |
@@ -82,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1572-matrix-diagonal-sum](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/1572-matrix-diagonal-sum/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
+| [3665-twisted-mirror-path-count](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/3665-twisted-mirror-path-count/) | Medium |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/3898-find-the-degree-of-each-vertex/) | Easy |
 ## Database
 | Problem Name | Difficulty |
@@ -261,6 +263,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/0053-maximum-subarray/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/0678-valid-parenthesis-string/) | Medium |
 | [1668-maximum-repeating-substring](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/1668-maximum-repeating-substring/) | Easy |
+| [3665-twisted-mirror-path-count](https://github.com/Aryan-Thinks/LeetCode-Problems/tree/main/Java/3665-twisted-mirror-path-count/) | Medium |
 ## Bubble Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
